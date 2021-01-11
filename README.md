@@ -4,7 +4,7 @@ About me:
 
 - 🔭 I’m pursuing my masters's degree in Computer Science at University of Washington.
 
-- 🌱 I’ve 4+ years of systemasied hands-on industry experience.
+- 🌱 I’ve 4+ years of systematized hands-on industry experience.
 
 - 💬 Ask me about **Data, Front-end, Cloud technologies** Happy to help!
 
